@@ -1,7 +1,7 @@
 # HyunRyeol Park
 ### 👋 Welcome
 ``` java
-public class BootSpringBootApplication {
+public class WelcomeGitHub {
   public static void main(String[] args) {
     System.out.println("Welcome, My GitHub");
   }
