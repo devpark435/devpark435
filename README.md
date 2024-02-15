@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20My%20GITHUB&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20To%20My%20GITHUB%20Profile&fontSize=40)
 ## 🖥️ Ryeol's DevLog 🖥️
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devpark435)](https://velog.io/@devpark435)
 
