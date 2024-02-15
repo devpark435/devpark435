@@ -1,33 +1,44 @@
-# HyunRyeol Park
-### 👋 Welcome
-``` java
-public class WelcomeGitHub {
-  public static void main(String[] args) {
-    System.out.println("Welcome, My GitHub");
-  }
-}
-```
-### 📖 My Blog
-> [Ryeol's Velog](https://velog.io/@devpark435)
-### ✉️ Mail address
-> [Mail](mailto:devpark435@gmail.com)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20My%20GITHUB&fontSize=40)
+## 🖥️ Ryeol's DevLog 🖥️
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devpark435)](https://velog.io/@devpark435)
+
+## 📮 Contact 📮
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:devpark435@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="mailto:https://open.kakao.com/o/sf0L789f">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
+    </a>
+  <a href="mailto:https://www.instagram.com/h._.ryeol?igsh=MWF0MWFxaGw1ZDRjOA%3D%3D&utm_source=qr">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>
+</div>
 
 ## 🌐 Stacks & Tools
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=HTML5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=JavaScript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?&logo=Vue.js&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?&logo=OpenGL&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?&logo=Flutter&logoColor=fff"/>
-  </p>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?&logo=Visual Studio Code&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Unity-000000?&logo=Unity&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?&logo=Xcode&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?&logo=IntelliJ IDEA&logoColor=fff"/>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Front -->
+    <p><strong>Frontend</strong></p>
+    <div>
+      <img src="https://img.shields.io/badge/Flutter-43CCF6?style=for-the-badge&logo=Flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> 
+    </div>
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+    </div>
+    <!-- Other -->
+    <p><strong>Other</strong></p>
+    <div>
+      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">  
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">  
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  
+    </div>
 </div>
 
 ## 📈 Git Stats
