@@ -7,12 +7,6 @@
     <a href="mailto:devpark435@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
-    <a href="mailto:https://open.kakao.com/o/sf0L789f">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
-    </a>
-  <a href="mailto:https://www.instagram.com/h._.ryeol?igsh=MWF0MWFxaGw1ZDRjOA%3D%3D&utm_source=qr">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
 </div>
 
 ## 🌐 Stacks & Tools
