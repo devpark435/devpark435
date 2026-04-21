@@ -1,40 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20To%20My%20GITHUB%20Profile&fontSize=40)
-## 🖥️ Ryeol's DevLog 🖥️
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devpark435)](https://velog.io/@devpark435)
+## 안녕하세요, 박현렬입니다
 
-## 📮 Contact 📮
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:devpark435@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-    </a>
-</div>
+  ### 사용자 경험을 먼저 생각하는 Flutter & iOS 개발자입니다
 
-## 🌐 Stacks & Tools
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Front -->
-    <p><strong>Frontend</strong></p>
-    <div>
-      <img src="https://img.shields.io/badge/Flutter-43CCF6?style=for-the-badge&logo=Flutter&logoColor=white">
-        <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> 
-    </div>
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
-    </div>
-    <!-- Other -->
-    <p><strong>Other</strong></p>
-    <div>
-      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">  
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">  
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  
-    </div>
-</div>
+  - 매끄러운 UI/UX를 구현하는 데 집중하며, 작은 디테일에서 차이를 만듭니다.
+  - 새로운 기술을 빠르게 익히고, 동료와 지식을 나누는 과정에서 성장합니다.
+  - 문제의 근본 원인을 파악하고 확장 가능한 구조로 해결하려는 습관을 지니고
+  있습니다.
+  - 크로스 플랫폼(Flutter)과 네이티브(iOS) 양쪽을 경험하며 더 넓은 시각으로
+  개발합니다.
 
-## 📈 Git Stats
+  <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpark435&theme=material-palenight&show_icons=true)
+  ## Tech
+
+  `Flutter` `Swift` `SwiftUI` `Riverpod` `Clean Architecture`
+  `Firebase` `Supabase` `Spring Boot`
+  `Claude Code` `Cursor` `MCP`
+
+  <br/>
+
+  ## Projects
+
+  - **[쓰윽](https://github.com/devpark435/swipe_gallery)** — 스와이프 기반 AI
+   갤러리 정리 앱
+  - **[Reactive Mind Map](https://pub.dev/packages/reactive_mind_map)** —
+  Flutter 오픈소스 마인드맵 위젯
+  - **[식목일](https://github.com/devpark435/Sikmogil)** — 헬스케어 플랫폼 ·
+  App Store 라이프스타일 50위 진입
+  - **[Copro](https://github.com/Nangman-Archive/CoPro_iOS)** — 개발자 팀원
+  매칭 플랫폼
+
+  <br/>
+
+  ## Stats
+
+  ![devpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpark435&theme=material-palenight&show_icons=true)
+  
+  <br/>
+
+  📮 devpark435@gmail.com · [Velog](https://velog.io/@devpark435) · [포트폴리오](https://devpark435.github.io/portfolio_flutter_web)
+
+
