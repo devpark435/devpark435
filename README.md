@@ -21,14 +21,13 @@
 
   ## Projects
 
+  - **[핀로그](https://github.com/devpark435/bowling_diary)** — 볼링 점수 기록 및 AI 분석 앱
   - **[쓰윽](https://github.com/devpark435/swipe_gallery)** — 스와이프 기반 AI
    갤러리 정리 앱
   - **[Reactive Mind Map](https://pub.dev/packages/reactive_mind_map)** —
   Flutter 오픈소스 마인드맵 위젯
   - **[식목일](https://github.com/devpark435/Sikmogil)** — 헬스케어 플랫폼 ·
   App Store 라이프스타일 50위 진입
-  - **[Copro](https://github.com/Nangman-Archive/CoPro_iOS)** — 개발자 팀원
-  매칭 플랫폼
 
   <br/>
 
