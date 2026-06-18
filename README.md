@@ -1,21 +1,21 @@
 ## 안녕하세요, 박현렬입니다
 
-  ### 사용자 경험을 먼저 생각하는 Flutter & iOS 개발자입니다
+  ### 사용자 경험을 먼저 생각하는 개발자입니다
 
   - 매끄러운 UI/UX를 구현하는 데 집중하며, 작은 디테일에서 차이를 만듭니다.
   - 새로운 기술을 빠르게 익히고, 동료와 지식을 나누는 과정에서 성장합니다.
   - 문제의 근본 원인을 파악하고 확장 가능한 구조로 해결하려는 습관을 지니고
   있습니다.
-  - 크로스 플랫폼(Flutter)과 네이티브(iOS) 양쪽을 경험하며 더 넓은 시각으로
+  - 크로스 플랫폼(Flutter), 네이티브(iOS), 웹 프론트(React) 와 백엔드(Spring Boot, Fast API) 양쪽을 경험하며 더 넓은 시각으로
   개발합니다.
 
   <br/>
 
   ## Tech
 
-  `Flutter` `Swift` `SwiftUI` `Riverpod` `Clean Architecture`
-  `Firebase` `Supabase` `Spring Boot`
-  `Claude Code` `Cursor` `MCP`
+  `Flutter` `Swift` `SwiftUI` `React` `TypeScript` `Riverpod` `Clean Architecture`
+  `Firebase` `Supabase` `Spring Boot` `Fast API`
+  `Claude Code` `Codex` `Cursor` `MCP`
 
   <br/>
 
