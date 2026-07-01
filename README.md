@@ -31,6 +31,12 @@
 
   <br/>
 
+  ## Contributions
+
+  - **[daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** ⭐ 52.5k — 주식 분석 시스템에 한국어 리포트 언어 지원 기능 기여 ([#1844](https://github.com/ZhuLinsen/daily_stock_analysis/pull/1844), merged)
+
+  <br/>
+
   ## Stats
 
   ![devpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpark435&theme=material-palenight&show_icons=true)
